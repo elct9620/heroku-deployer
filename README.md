@@ -1,2 +1,6 @@
-# heroku-deployer
-The heroku deploy environment for gitlab-ci to deploy application.
+# Heroku Deployer
+
+## Environments
+
+* `HEROKU_USER`
+* `HEROKU_TOKEN`
